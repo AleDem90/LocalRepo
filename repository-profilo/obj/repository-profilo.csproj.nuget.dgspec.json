@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Progetti\\Profilo MF\\repository-profilo\\repository-profilo\\repository-profilo.csproj": {}
+    "C:\\Users\\DeMeo\\Desktop\\Repository_GIT\\LocalRepo\\repository-profilo\\repository-profilo.csproj": {}
   },
   "projects": {
-    "C:\\Progetti\\Profilo MF\\repository-profilo\\repository-profilo\\repository-profilo.csproj": {
+    "C:\\Users\\DeMeo\\Desktop\\Repository_GIT\\LocalRepo\\repository-profilo\\repository-profilo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Progetti\\Profilo MF\\repository-profilo\\repository-profilo\\repository-profilo.csproj",
+        "projectUniqueName": "C:\\Users\\DeMeo\\Desktop\\Repository_GIT\\LocalRepo\\repository-profilo\\repository-profilo.csproj",
         "projectName": "repository-profilo",
-        "projectPath": "C:\\Progetti\\Profilo MF\\repository-profilo\\repository-profilo\\repository-profilo.csproj",
-        "packagesPath": "C:\\Users\\Li Calsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Progetti\\Profilo MF\\repository-profilo\\repository-profilo\\obj\\",
+        "projectPath": "C:\\Users\\DeMeo\\Desktop\\Repository_GIT\\LocalRepo\\repository-profilo\\repository-profilo.csproj",
+        "packagesPath": "C:\\Users\\DeMeo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DeMeo\\Desktop\\Repository_GIT\\LocalRepo\\repository-profilo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Li Calsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DeMeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/": {}
+          "C:\\Users\\DeMeo\\Desktop\\ProgettiVS2018\\Fondi\\WS_Fondi": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -88,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
